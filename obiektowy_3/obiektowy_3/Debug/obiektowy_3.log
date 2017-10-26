@@ -1,0 +1,13 @@
+﻿  Source.cpp
+  Quiz.cpp
+c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\quiz.cpp(5): error C2065: 'endl': undeclared identifier
+  Questions.cpp
+  Menu.cpp
+c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(33): error C2360: initialization of 'myQuiz' is skipped by 'case' label
+  c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(29): note: see declaration of 'myQuiz'
+c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(35): error C2360: initialization of 'myQuiz' is skipped by 'case' label
+  c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(29): note: see declaration of 'myQuiz'
+c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(37): error C2360: initialization of 'myQuiz' is skipped by 'case' label
+  c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\menu.cpp(29): note: see declaration of 'myQuiz'
+  Generating Code...
+c:\users\jacek\documents\visual studio 2015\projects\projects_objected\obiektowy_3\obiektowy_3\source.cpp(13): error C4700: uninitialized local variable 'choiceNumb' used
